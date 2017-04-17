@@ -1,0 +1,51 @@
+.Yaxis line,
+.Yaxis path{
+    stroke-width: 2px;
+    stroke: black;
+    fill: none;
+
+}
+
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
+
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td
+{
+    padding: 5px;
+    text-align: left;
+    font-size: 7px;
+}
+
+
+
+.d3-tip {
+    line-height: 1;
+    font-weight: bold;
+    padding: 12px;
+    background-color: pink;
+    color: #fff;
+    border-radius: 2px;
+}
+
+.H1 .link
+{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.heading
+{
+    font-size: 50px;
+    font-weight: bold;
+}
+
